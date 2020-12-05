@@ -9,7 +9,7 @@ As an extra feature, if you press it again, it will switch back. It bothered me 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-![Alt text](https://recordit.co/kzXQCTdB2f)
+![Alt text](http://g.recordit.co/kzXQCTdB2f.gif)
 
 <img src="YOUR_GIF_URL_HERE" width=200><br>
 
