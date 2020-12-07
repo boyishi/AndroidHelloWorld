@@ -3,15 +3,11 @@
 ## Hello World
 
 ### App Description
-I implemented a button in which it changes the textColor of the header.
-As an extra feature, if you press it again, it will switch back. It bothered me that once you pressed the button, it will always set the text to white 
-For the other functionalities, it should be highlighted by the Xs in the Optional User Stories section
+This small project is a submission for entry within Codepath's Introduction to Android Development Course.
+The GIF should show a small demonstration of the project amd the features should be checked below.
 
 ### App Walk-though
-
-
-
-<img src="http://g.recordit.co/mqwv5CbEnd.gif" width=200><br>
+<img src="http://g.recordit.co/tbf8ChN5Mv.gif" width=200><br>
 
 
 ### Required User Stories
@@ -25,5 +21,11 @@ For the other functionalities, it should be highlighted by the Xs in the Optiona
 - [X] 3. User can tap on the background view to reset all views to default settings.  
 - [X] 4. User can update the label text with custom text entered into the text field.  
    - [X] a. User can enter text into a text field using the keyboard.  
-   - [ ] b. User can tap the "Change text string" button to update the label with the text from the text field.  
-   - [ ] c. If the text field is empty, update label with default text string.  
+   - [X] b. User can tap the "Change text string" button to update the label with the text from the text field.  
+   - [X] c. If the text field is empty, update label with default text string.  
+
+Extra Features:
+- I had it so that when you submit the button, the text field becomes blank and it unfocuses so that you don't still see the keyboard
+- I also made it where you can press change header multiple times => alternates between black and white
+    - Created using simple if statements
+   
