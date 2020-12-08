@@ -3,8 +3,7 @@
 ## Hello World
 
 ### App Description
-This small project is a submission for entry within Codepath's Introduction to Android Development Course.
-The GIF should show a small demonstration of the project amd the features should be checked below.
+This is the submission for entry to Codepath's Introduction to App Development Course.
 
 ### App Walk-though
 <img src="http://g.recordit.co/tbf8ChN5Mv.gif" width=200><br>
